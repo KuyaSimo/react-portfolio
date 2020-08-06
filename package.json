@@ -1,0 +1,24 @@
+{
+  "homepage": "http://KuyaSimo.github.io/react-portfolio",
+  "name": "create-next-example-app",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^5.7.3",
+    "axios": "^0.18.1",
+    "next": "8.0.3",
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "semantic-ui-react": "^0.86.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}

@@ -1,0 +1,43 @@
+.clickable {
+  cursor: pointer;
+  opacity: 0.9;
+  transition: all 0.2s ease-in-out !important;
+}
+.clickable:hover {
+  opacity: 1;
+  transform: scale(1.02);
+}
+.card .description {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.viewmore {
+  color: red;
+  text-align: center;
+  font-weight: 200;
+  cursor: pointer;
+  opacity: 0.9;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.viewmore:hover{
+  opacity: 1;
+  transform: scale(1.02);
+}
+.paragraph{
+  font-size: 19px;
+}
+
+.project-1{
+  height: 100vh;
+  background-color: skyblue;
+}
+.project-2{
+  height: 100vh;
+  background-color: mediumpurple;
+}
+.project-3{
+  height: 100vh;
+  background-color: tomato;
+}

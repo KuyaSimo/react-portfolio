@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Career - Lufthansa Technik ",
+    "desc": "Career Website for Lufthansa.",
+    "under":"Project from Tech One Global" ,
+    "created_date": "December 15, 2018",
+    "image": "https://i.ibb.co/PW3yH4c/Lufthansa.jpg"
+  },
+  {
+    "name": "Cornelia Chat Bot",
+    "desc": "AI Chat Bot, ",
+    "under":"Project from Tech One Global " ,
+    "created_date": "January 2018 ",
+    "image": "https://i.ibb.co/175rTmj/ChatBOT.jpg"
+  },
+  {
+    "name": "Test Run System",
+    "desc": "Continuos flow of items from logistic to production",
+    "under":"Project under Brother Philippines" ,
+    "created_date": "November 2019",
+    "image": "https://i.ibb.co/NZDc82x/TestRun.jpg"
+  },
+  {
+    "name": "Employee Management ID",
+    "desc": "Monitors every System ID or Account that the company has",
+    "under":"Project under Brother Philippines" ,
+    "created_date": "November 2019",
+    "image": "https://i.ibb.co/Jdp0M81/EMID.jpg"
+  },  
+  {
+    "name": "Document Quality Management System",
+    "desc": "Paperless Activity for every document in the company",
+    "under":"Project under Brother Philippines" ,
+    "created_date": "November 2019",
+    "image": "https://i.ibb.co/FgdnNnG/DQMS.jpg"
+  }, 
+  {
+    "name": "Policy Report System",
+    "desc": "Reporting Structure and IT Systems",
+    "under":"Project under Brother Philippines" ,
+    "created_date": "November 2019",
+    "image": "https://i.ibb.co/nmHwDWT/ITREQ.jpg"
+  }
+]
