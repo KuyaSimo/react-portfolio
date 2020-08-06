@@ -1,9 +1,10 @@
 {
   "homepage": "http://KuyaSimo.github.io/react-portfolio",
   "name": "create-next-example-app",
+  "private": "true",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d www",
+    "deploy": "gh-pages -d build",
     "dev": "next",
     "build": "next build",
     "start": "next start"
@@ -11,7 +12,7 @@
   "dependencies": {
     "@react-navigation/native": "^5.7.3",
     "axios": "^0.18.1",
-    "next": "8.0.3",
+    "next": "^9.5.1",
     "react": "16.8.5",
     "react-dom": "16.8.5",
     "react-router": "^5.2.0",
