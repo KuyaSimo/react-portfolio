@@ -34,7 +34,7 @@ import axios from "axios";
                   }}
                 >
                   <Card
-                    className=""
+                    className="clickable"
                     fluid
                     image={project.image}
                     header={project.name}
